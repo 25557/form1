@@ -1,0 +1,49 @@
+body {
+  background-color: #738196;
+}
+
+body {
+  color: #FCFBFC;
+}
+
+#border1 {
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+
+#border2 {
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+
+#border3 {
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+
+#border4 {
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+
+fieldset {
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+#kleur {
+  display: inline-block;
+  padding: 1em;
+  cursor: pointer;
+  text-align: center;
+  background-color: #97a9c4;
+}
+
+#border1 input {
+  display: block;
+}
