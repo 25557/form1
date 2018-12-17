@@ -6,7 +6,7 @@ body {
   color: #FCFBFC;
 }
 
-#border1 {
+.border1 {
   border-style: solid;
   border-width: 3px;
   border-color: black;
@@ -29,14 +29,13 @@ body {
   border-width: 3px;
   border-color: black;
 }
-
 fieldset {
   border-style: solid;
   border-width: 2px;
   border-color: black;
 }
 
-#kleur {
+.kleur {
   display: inline-block;
   padding: 1em;
   cursor: pointer;
@@ -44,6 +43,6 @@ fieldset {
   background-color: #97a9c4;
 }
 
-#border1 input {
+.border1 input {
   display: block;
 }
